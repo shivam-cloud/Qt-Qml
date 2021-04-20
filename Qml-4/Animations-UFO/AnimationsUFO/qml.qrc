@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ufo_background.png</file>
+        <file>ufo.png</file>
+        <file>ClickableImage3.qml</file>
+        <file>rocket.png</file>
+    </qresource>
+</RCC>

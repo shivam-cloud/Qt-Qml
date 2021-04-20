@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>box_red@2x.png</file>
+        <file>box_green@2x.png</file>
+        <file>box_blue@2x.png</file>
+        <file>background@2x.png</file>
+        <file>bg7.jpeg</file>
+    </qresource>
+</RCC>
