@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Element.qml</file>
+        <file>FlowPosition.qml</file>
+        <file>GridPosition.qml</file>
+        <file>RowPosition.qml</file>
+        <file>ColumnPosition.qml</file>
+    </qresource>
+</RCC>

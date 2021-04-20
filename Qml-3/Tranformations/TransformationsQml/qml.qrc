@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ClickableImage.qml</file>
+        <file>triangle_red@2x.png</file>
+        <file>circle_blue@2x.png</file>
+        <file>box_green@2x.png</file>
+        <file>background@2x.png</file>
+    </qresource>
+</RCC>
