@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Netflix.png</file>
+        <file>netflix.png</file>
+        <file>1.png</file>
+    </qresource>
+</RCC>
