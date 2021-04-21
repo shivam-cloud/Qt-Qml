@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>hamburger_button.svg</file>
+    </qresource>
+</RCC>
